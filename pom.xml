@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ensign</groupId>
-	<artifactId>cs-235-map-part1-s1-starter</artifactId>
+	<artifactId>cs-235-map-part2-s1-starter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
